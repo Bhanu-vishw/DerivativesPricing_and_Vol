@@ -81,3 +81,34 @@ Custom implementation of normal random number generation for simulation framewor
 Concepts implemented
 
 pseudo-random number generation, Gaussian sampling, statistical simulation inputs.
+
+
+## Equity Index Correlation Trading
+
+Analyzed correlations across equity indices to understand co-movement patterns and diversification effects within global equity markets. Evaluated time-varying correlation structures and their implications for portfolio construction and risk management.
+
+Methods / Models:
+Correlation analysis, covariance estimation, portfolio diversification analysis, statistical time-series analysis.
+
+Libraries:
+pandas, numpy, scipy, matplotlib, seaborn
+
+## Delta-Hedged Option Strategy using QuantLib
+
+Implemented a delta-hedged option trading strategy to analyze hedging effectiveness and replication of option payoffs. Simulated dynamic hedging by adjusting underlying asset positions and evaluated hedging performance over time.
+
+Methods / Models:
+Black–Scholes option pricing, delta hedging, dynamic hedging strategies, option replication.
+
+Libraries:
+QuantLib, pandas, numpy, matplotlib
+
+## Option Pricing and Sensitivity Analysis
+
+Priced options and analyzed option sensitivities to understand the impact of underlying price movements and volatility changes. Evaluated key option risk measures and payoff dynamics using numerical and analytical pricing techniques.
+
+Methods / Models:
+Black–Scholes option pricing, option Greeks calculation, sensitivity analysis, derivatives pricing.
+
+Libraries:
+pandas, numpy, scipy, matplotlib
