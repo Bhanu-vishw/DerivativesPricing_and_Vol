@@ -93,7 +93,7 @@ Correlation analysis, covariance estimation, portfolio diversification analysis,
 Libraries:
 pandas, numpy, scipy, matplotlib, seaborn
 
-## Delta-Hedged Option Strategy using QuantLib
+## DeltaHedged_Option_QuantLib.ipynb
 
 Implemented a delta-hedged option trading strategy to analyze hedging effectiveness and replication of option payoffs. Simulated dynamic hedging by adjusting underlying asset positions and evaluated hedging performance over time.
 
