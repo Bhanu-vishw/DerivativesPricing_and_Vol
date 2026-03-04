@@ -83,7 +83,7 @@ Concepts implemented
 pseudo-random number generation, Gaussian sampling, statistical simulation inputs.
 
 
-## Equity Index Correlation Trading
+## IndexCorrelation_Final.ipynb
 
 Analyzed correlations across equity indices to understand co-movement patterns and diversification effects within global equity markets. Evaluated time-varying correlation structures and their implications for portfolio construction and risk management.
 
