@@ -102,13 +102,3 @@ Black–Scholes option pricing, delta hedging, dynamic hedging strategies, optio
 
 Libraries:
 QuantLib, pandas, numpy, matplotlib
-
-## Option Pricing and Sensitivity Analysis
-
-Priced options and analyzed option sensitivities to understand the impact of underlying price movements and volatility changes. Evaluated key option risk measures and payoff dynamics using numerical and analytical pricing techniques.
-
-Methods / Models:
-Black–Scholes option pricing, option Greeks calculation, sensitivity analysis, derivatives pricing.
-
-Libraries:
-pandas, numpy, scipy, matplotlib
