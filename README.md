@@ -30,6 +30,16 @@ Libraries
 
 numpy, scipy, pandas, matplotlib.
 
+## volatility_transformers.ipynb
+
+Developed a hybrid volatility forecasting framework that combines Transformer-based deep learning with GARCH statistical modeling to predict market volatility. Implemented a calibrated ensemble approach using non-constrained optimization to merge the pattern-recognition strengths of neural networks with the statistical rigor of GARCH, significantly reducing forecasting error (RMSE) and correcting for model-specific biases.
+
+Methods / Models:
+Transformer Neural Networks (Attention Mechanism), GARCH(1,1) Modeling, Time-Series Forecasting, Ensemble Learning, Linear Calibration, Scipy Optimization (L-BFGS-B).
+
+Libraries:
+PyTorch, arch, yfinance, scikit-learn, scipy, pandas, numpy, matplotlib
+
 ## Blackscholes.ipynb
 
 Implementation of the Black–Scholes option pricing model for European options.
@@ -102,3 +112,4 @@ Black–Scholes option pricing, delta hedging, dynamic hedging strategies, optio
 
 Libraries:
 QuantLib, pandas, numpy, matplotlib
+
